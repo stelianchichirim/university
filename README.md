@@ -1,2 +1,1 @@
-# university
-University Work and Projects
+# University Work and Projects
