@@ -1,0 +1,110 @@
+Numere: 10
+Valoare maxima: 789521
+BubbleSort -> a durat 0 milisecunde si a fost sortat crescator
+QuickSort -> a durat 0 milisecunde si a fost sortat crescator
+MergeSort -> a durat 0 milisecunde si a fost sortat crescator
+CountSort -> a durat 1 milisecunde si a fost sortat crescator
+RadixSort -> a durat 0 milisecunde si a fost sortat crescator
+HeapSort -> a durat 0 milisecunde si a fost sortat crescator
+SortStl -> a durat 0 milisecunde si a fost sortat crescator
+
+Numere: 1000
+Valoare maxima: 999732
+BubbleSort -> a durat 0 milisecunde si a fost sortat crescator
+QuickSort -> a durat 0 milisecunde si a fost sortat crescator
+MergeSort -> a durat 0 milisecunde si a fost sortat crescator
+CountSort -> a durat 2 milisecunde si a fost sortat crescator
+RadixSort -> a durat 0 milisecunde si a fost sortat crescator
+HeapSort -> a durat 0 milisecunde si a fost sortat crescator
+SortStl -> a durat 0 milisecunde si a fost sortat crescator
+
+Numere: 10000
+Valoare maxima: 999993
+BubbleSort -> a durat 94 milisecunde si a fost sortat crescator
+QuickSort -> a durat 1 milisecunde si a fost sortat crescator
+MergeSort -> a durat 0 milisecunde si a fost sortat crescator
+CountSort -> a durat 1 milisecunde si a fost sortat crescator
+RadixSort -> a durat 0 milisecunde si a fost sortat crescator
+HeapSort -> a durat 0 milisecunde si a fost sortat crescator
+SortStl -> a durat 0 milisecunde si a fost sortat crescator
+
+Numere: 100000
+Valoare maxima: 999999
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 7 milisecunde si a fost sortat crescator
+MergeSort -> a durat 7 milisecunde si a fost sortat crescator
+CountSort -> a durat 3 milisecunde si a fost sortat crescator
+RadixSort -> a durat 0 milisecunde si a fost sortat crescator
+HeapSort -> a durat 9 milisecunde si a fost sortat crescator
+SortStl -> a durat 5 milisecunde si a fost sortat crescator
+
+Numere: 100000
+Valoare maxima: 999995433
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 7 milisecunde si a fost sortat crescator
+MergeSort -> a durat 7 milisecunde si a fost sortat crescator
+CountSort -> Numerele din sir sunt prea mari => Prea multa memorie
+RadixSort -> a durat 0 milisecunde si a fost sortat crescator
+HeapSort -> a durat 9 milisecunde si a fost sortat crescator
+SortStl -> a durat 6 milisecunde si a fost sortat crescator
+
+Numere: 500000
+Valoare maxima: 999998
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 41 milisecunde si a fost sortat crescator
+MergeSort -> a durat 41 milisecunde si a fost sortat crescator
+CountSort -> a durat 9 milisecunde si a fost sortat crescator
+RadixSort -> a durat 7 milisecunde si a fost sortat crescator
+HeapSort -> a durat 56 milisecunde si a fost sortat crescator
+SortStl -> a durat 29 milisecunde si a fost sortat crescator
+
+Numere: 500000
+Valoare maxima: 9999920
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 43 milisecunde si a fost sortat crescator
+MergeSort -> a durat 42 milisecunde si a fost sortat crescator
+CountSort -> a durat 32 milisecunde si a fost sortat crescator
+RadixSort -> a durat 8 milisecunde si a fost sortat crescator
+HeapSort -> a durat 57 milisecunde si a fost sortat crescator
+SortStl -> a durat 29 milisecunde si a fost sortat crescator
+
+Numere: 1000000
+Valoare maxima: 999999
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 83 milisecunde si a fost sortat crescator
+MergeSort -> a durat 88 milisecunde si a fost sortat crescator
+CountSort -> a durat 12 milisecunde si a fost sortat crescator
+RadixSort -> a durat 16 milisecunde si a fost sortat crescator
+HeapSort -> a durat 125 milisecunde si a fost sortat crescator
+SortStl -> a durat 62 milisecunde si a fost sortat crescator
+
+Numere: 5000000
+Valoare maxima: 999999
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 418 milisecunde si a fost sortat crescator
+MergeSort -> a durat 468 milisecunde si a fost sortat crescator
+CountSort -> a durat 34 milisecunde si a fost sortat crescator
+RadixSort -> a durat 91 milisecunde si a fost sortat crescator
+HeapSort -> a durat 842 milisecunde si a fost sortat crescator
+SortStl -> a durat 342 milisecunde si a fost sortat crescator
+
+Numere: 10000000
+Valoare maxima: 9999999
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 943 milisecunde si a fost sortat crescator
+MergeSort -> a durat 1006 milisecunde si a fost sortat crescator
+CountSort -> a durat 218 milisecunde si a fost sortat crescator
+RadixSort -> a durat 177 milisecunde si a fost sortat crescator
+HeapSort -> a durat 1984 milisecunde si a fost sortat crescator
+SortStl -> a durat 718 milisecunde si a fost sortat crescator
+
+Numere: 50000000
+Valoare maxima: 9999999
+BubbleSort -> Nu putem sta pana maine sa ruleze => Numarul de elemente este prea mare
+QuickSort -> a durat 4725 milisecunde si a fost sortat crescator
+MergeSort -> a durat 5389 milisecunde si a fost sortat crescator
+CountSort -> a durat 845 milisecunde si a fost sortat crescator
+RadixSort -> a durat 909 milisecunde si a fost sortat crescator
+HeapSort -> a durat 13659 milisecunde si a fost sortat crescator
+SortStl -> a durat 3913 milisecunde si a fost sortat crescator
+
